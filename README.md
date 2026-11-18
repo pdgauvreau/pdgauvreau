@@ -15,3 +15,5 @@ I like building things people actually use, and solving problems in new and slig
 | [TateAI](https://github.com/pdgauvreau/TateAI) | A study tutor that talks through your course materials and makes you do the thinking. Live at [tateai.app](https://tateai.app) | React, Vite, Supabase, Stripe, Claude API |
 
 **Tech:** C#, .NET, JavaScript, React, Node.js, Python, Solidity, Supabase, Git
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/paul-gauvreau/)
